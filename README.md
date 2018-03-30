@@ -1,1 +1,1 @@
-# OSCP page in GitHub as  Igo through the course 
+# OSCP page in GitHub as I go through the course 

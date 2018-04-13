@@ -1,0 +1,145 @@
+Tool	Company or Product Website	Purpose
+Backtrack 4 (bt4)	https://www.kali.org/ 
+Compilation of Security Tools
+Network Security Toolkit	http://networksecuritytoolkit.org 
+Compilation of Security Tools
+CIS Benchmark Tools	The Center for Internet Security
+https://www.cisecurity.org 
+ Benchmark Audit Tools
+Nessus	Tenable Security
+https://docs.tenable.com/nessus/Content/Resources/PDF/Nessus_7_0.pdf 
+Vulnerability Scanner
+Core Impact Professional	Core Security https://www.coresecurity.com  
+Vulnerability Scanner and exploit 
+Metasploit Framework	http://www.metasploit.com
+Vulnerability exploiter
+Retina	eEye Digital Security
+www.eeye.com/getattachment/Solutions/Industry/Finance/MeetingPCI.pdf 
+Vulnerability Scanner
+Qualys	https://www.qualys.com/docs/qualys-scanner-appliance-user-guide.pdf 
+Vulnerability Scanner
+Wireshark	http://www.wireshark.org/ 
+Packet Sniffer
+Tcpdump	http://www.tcpdump.org
+Packet Sniffer
+Libpcap	http://www.tcpdump.org
+Packet Sniffer
+Ettercap	http://www.ettercap-project.org/  
+Packet Sniffer
+Dsniff	https://www.monkey.org/~dugsong/dsniff/ 
+Packet Sniffer
+EtherApe	http://etherape.sourceforge.net
+Packet Sniffer
+Nmap	http://nmap.org
+Network Mapper
+Zenmap	http://nmap.org
+Network Mapper
+SolarWinds LANsurveyor	https://www.solarwinds.com/network-topology-mapper 
+Network Mapper
+		
+McAfee Superscanv4.1	https://www.mcafee.com/ca/downloads/free-tools/superscan.aspx 
+Port Scanner
+Angry IP Scanner	http://www.angryip.org
+Port Scanner
+Snort	https://www.snort.org/#documents 
+Intrusion Detection System
+		
+OSSEC HIDS	https://ossec.github.io/index.html 
+Intrusion Detection System
+Hping2	http://www.hping.org/documentation.php 
+Packet Crafting Tool
+Scapy	www.secdev.org/projects/scapy/files/scapydoc.pdf 
+Packet Crafting Tool
+Kisment	https://www.kismetwireless.net
+Wireless Tool
+NetStumbler	http://www.stumbler.net
+Wireless Tool
+Aircrack	http://www.aircrack-ng.org
+Wireless Tool
+Airsnort	http://airsnort.shmoo.com
+Wireless Tool
+Air Magnet	https://enterprise.netscout.com/support 
+Wireless Tool
+Airpcap	https://support.riverbed.com/bin/support/download?did=466 
+Wireless Tool
+Omnipeek	https://mypeek.savvius.com/documentation/index.php 
+Wireless Tool
+Cain and Abel	http://www.oxid.it
+Password Cracker
+John the Ripper	http://www.openwall.com/john
+Password Cracker
+Ophcrack	https://sourceforge.net/p/ophcrack/wiki/ 
+Password Cracker
+L0phtcrack	www.l0phtcrack.com/doc/ 
+Password Cracker
+Pwdump6	http://foofus.net/goons/fizzgig/fgdump/fgdump-usage.html 
+Password Cracker
+RainbowCrack	http://project-rainbowcrack.com
+Password Cracker
+NUTCracker	http://www.softpanorama.org/Authentication/password_crackers.shtml
+Password Cracker
+Brutus	http://sectools.org/tool/brutus/	Password Cracker
+Nikto	http://www.cirt.net/nikto2 
+Web Vulnerability Scanner
+Paros Proxy	http://www.parosproxy.org
+Web Vulnerability Scanner
+Zed Attack Proxy	https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project 
+Web Vulnerability Scanner
+WebInspect	http://www.hp.com/hpinfo/newsroom/press_kits/2011/risk2011/HP_WebInspect_data_sheet.pdf 
+Web Vulnerability Scanner
+Burpsuite	http://portswigger.net/suite
+Web Vulnerability Scanner
+Skipfish	http://code.google.com/p/skipfish
+Web Vulnerability Scanner
+Sysinternals	http://technet.microsoft.com
+Rootkit Detector
+		
+Tripwire	http://www.tripwire.com
+Rootkit Detector
+RKHunter	http://rootkit.nl/projects/rootkit_hunter.html 
+Rootkit Detector
+Chkrootkit	http://www.chkrootkit.org
+Rootkit Detector
+P0f	http://lcamtuf.coredump.cx/p0f.shtml
+OS Detection Tool
+Xprobe2	https://linux.die.net/man/1/xprobe2 
+OS Detection Tool
+Firewalk	http://packetstormsecurity.org/UNIX/audit/firewalk/
+Trace route Tool
+Tcptraceroute	https://linux.die.net/man/1/tcptraceroute 
+Trace route Tool
+SNMP Walk	https://snmpsoft.com/shell-tools/snmp-walk/ 
+https://linux.die.net/man/1/snmpwalk 
+SNMP Tools
+Onesixtyone	http://manpages.ubuntu.com/manpages/bionic/man1/onesixtyone.1.html 
+SNMP Tools
+AppDective	https://www.trustwave.com/Products/Database-Security/AppDetectivePRO/ 
+Database Scanner
+AutoBerry	NSA	Allows for the snap-shooting of a known good BlackBerry configuration and subsequent comparison of BlackBerry settings and files after use.
+Exchange Analyzer	Microsoft	Identifies potential configuration and security issues with Exchange.
+Google Earth	Google	Misc. Tool
+Group Policy Management Console (GPMC)	Microsoft	Enumerate Active Directory and the group policy objects
+Group Policy Scripts	Microsoft	Series of scripts used for collecting GPO data as well as management of GPO settings.
+Hyena	https://systemtools.com
+Identifies potential configuration and security issues with Exchange.
+KIWI NCATS Tools	https://kiwisyslog.com
+Remote execution tool that gathers network device configuration information.
+Multiverse	NSA	Database application that uses MySQL to collect and organize results from multiple scanning tools.
+NetChkPro	Shavlik, Inc.	Remote Patch Scanner
+NIPPER	https://sourceforge.net/projects/nipper
+Performs off-line analysis of a variety of infrastructure configurations on files to identify configuration vulnerabilities
+Security Expressions	http://www.symantec.com
+Remote scanner that examines the security configuration settings on hosts.  Hosts are normally compared to consensus “best practice” settings.
+Windows Administrative Tools	Microsoft	Microsoft server tools loaded on our laptops (i.e. Active Directory Users and Computers).
+Windows Support and Resource Kit	Microsoft	These tools made publicly available by Microsoft provide multiple utilities for system administration-like functions on a Windows network.
+
+Appendix I – References
+
+NIST SP 800-115 – Technical Guide to Information Security Testing and Assessment
+http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf
+
+Open Source Security Testing Methodology Manual Version 3
+http://www.isecom.org/mirror/OSSTMM.3.pdf
+
+Open Web Application Security Project (OWASP) Testing Guide Version 3
+https://www.owasp.org/images/1/19/OTGv4.pdf  
